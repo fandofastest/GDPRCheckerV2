@@ -17,10 +17,14 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 Add this tow lines to your Module dependency
 
+
 dependencies {
 		implementation 'com.github.fandofastest:GDPRCheckerV2:1.0.0'
 		implementation 'com.google.android.ump:user-messaging-platform:1.0.0'
 	}
+	
+	
+	
 How To use
         setContentView(R.layout.activity_main);
         
