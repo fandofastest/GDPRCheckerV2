@@ -29,8 +29,8 @@ Add this tow lines to your Module dependency
 	
 	
 How To use
-        setContentView(R.layout.activity_main);
         
+              setContentView(R.layout.activity_main);	
               new GDPRChecker()
                         .withContext(getApplicationContext())
                         .withActivity(MainActivity.this)
