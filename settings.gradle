@@ -1,0 +1,3 @@
+include ':gdprcheckerv2'
+include ':app'
+rootProject.name = "GDPRCheckerV2"
