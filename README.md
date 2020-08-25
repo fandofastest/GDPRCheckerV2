@@ -18,10 +18,13 @@ Step 2. Add the dependency
 Add this tow lines to your Module dependency
 
 
-dependencies {
+    dependencies {
 		implementation 'com.github.fandofastest:GDPRCheckerV2:1.0.0'
 		implementation 'com.google.android.ump:user-messaging-platform:1.0.0'
-	}
+
+
+    }
+
 	
 	
 	
